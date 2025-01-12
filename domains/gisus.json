@@ -1,0 +1,11 @@
+{
+  "description": "Documentation website for Jesús",
+  "repo": "https://github.com/sustract",
+  "owner": {
+    "username": "sustract",
+    "email": "jesusgc87@gmail.com"
+  },
+  "record": {
+    "CNAME": "mycurriculum.salleurl.edu"
+  }
+}
